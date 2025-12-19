@@ -182,12 +182,6 @@ Intelligent conversational AI for 24/7 support
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritulshekhar&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5094F0&fire=FF6B6B&currStreakLabel=5094F0" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritulshekhar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5094F0&text_color=FFFFFF" alt="Top Languages" />
 
 </div>
